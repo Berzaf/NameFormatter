@@ -1,0 +1,10 @@
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\obj\Debug\NameFormatter.csprojAssemblyReference.cache
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\obj\Debug\NameFormatter.Form1.resources
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\obj\Debug\NameFormatter.Properties.Resources.resources
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\obj\Debug\NameFormatter.csproj.GenerateResource.cache
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\obj\Debug\NameFormatter.csproj.CoreCompileInputs.cache
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\bin\Debug\NameFormatter.exe.config
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\bin\Debug\NameFormatter.exe
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\bin\Debug\NameFormatter.pdb
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\obj\Debug\NameFormatter.exe
+C:\Users\TEMP\source\repos\NameFormatter\NameFormatter\obj\Debug\NameFormatter.pdb
